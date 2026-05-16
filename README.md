@@ -129,28 +129,11 @@ Results
 The Random Forest and XGBoost models achieved the best performance for churn prediction.
 
 Additional techniques like:
-
 SMOTE
 Hyperparameter tuning
 Feature engineering
-
 helped improve model performance and robustness.
 
-Project Structure
-Customer-Churn-Prediction/
-│
-├── customer_churn_dataset.csv
-├── customer_churn_prediction.ipynb
-├── customer_churn_model.pkl
-├── README.md
-│
-├── images/
-│   ├── churn_distribution.png
-│   ├── roc_curve.png
-│   ├── feature_importance.png
-│   └── segmentation.png
-│
-└── requirements.txt
 
 Future Improvements
 
